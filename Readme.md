@@ -6,7 +6,7 @@ This is a simple round-robin load balancer implemented in Golang. It distributes
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/swarajkumarsingh/load-balancer.git
 ```
 
 2. Build and run the load balancer:
